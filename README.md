@@ -146,7 +146,3 @@ Las áreas principales para contribuciones incluyen:
 2. Mejora de la eficiencia de simulación
 3. Adición de visualizaciones de estados cuánticos
 4. Implementación de algoritmos cuánticos conocidos
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles. 
